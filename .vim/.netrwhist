@@ -1,10 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/home/swish/src/haskell/yesod/hbooks'
-let g:netrw_dirhist_2='/home/swish/src/haskell/yesod/hbooks/config'
-let g:netrw_dirhist_3='/home/swish/src/rails/shop/spec/requests'
-let g:netrw_dirhist_4='/home/swish/src'
-let g:netrw_dirhist_5='/home/swish/.mozilla/firefox/wx6hiwut.default'
-let g:netrw_dirhist_6='/home/swish/src/rails/oracle-of-bacon'
-let g:netrw_dirhist_7='/home/swish/src/rails'
-let g:netrw_dirhist_8='/home/swish/src/rails/oracle-of-bacon'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/nikolay_m/work/ais'
+let g:netrw_dirhist_2='/home/nikolay_m/work/vim'
+let g:netrw_dirhist_3='/home/nikolay_m/work/ais'

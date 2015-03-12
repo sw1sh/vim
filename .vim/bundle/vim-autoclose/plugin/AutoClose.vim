@@ -26,12 +26,12 @@ if g:AutoClosePreserveDotReg
     " Because dot register preservation code remaps escape we have to remap
     " some terminal specific escape sequences first
     if &term =~ 'xterm' || &term =~ 'rxvt' || &term =~ 'screen' || &term =~ 'linux' || &term =~ 'gnome'
-        imap <silent> <Esc>OA <Up>
-        imap <silent> <Esc>OB <Down>
-        imap <silent> <Esc>OC <Right>
-        imap <silent> <Esc>OD <Left>
-        imap <silent> <Esc>OH <Home>
-        imap <silent> <Esc>OF <End>
+"        imap <silent> <Esc>OA <Up>
+"        imap <silent> <Esc>OB <Down>
+"        imap <silent> <Esc>OC <Right>
+"        imap <silent> <Esc>OD <Left>
+"        imap <silent> <Esc>OH <Home>
+"        imap <silent> <Esc>OF <End>
         imap <silent> <Esc>[5~ <PageUp>
         imap <silent> <Esc>[6~ <PageDown>
     endif
