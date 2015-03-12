@@ -77,7 +77,7 @@ hi Normal ctermfg=252 ctermbg=none
 
 " Haskell
 au BufEnter *.hs compiler ghc
-let g:haddock_browser="chrome-browse"
+let g:haddock_browser="firefox"
 
 " Tabs
 nnoremap <C-h> :tabprevious<CR>
